@@ -3,7 +3,7 @@
 Este repositorio contiene una plantilla de aplicación web de pila completa que integra Spring Boot para el backend y React para el frontend.
 Está diseñada como punto de partida para desarrollar aplicaciones modernas, escalables y mantenibles.
 
-🚀 Tecnologías principales
+## 🚀 Tecnologías principales
 
 Backend: Spring Boot
 
